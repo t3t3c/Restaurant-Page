@@ -1,6 +1,6 @@
 # My folders #
 ##############
-
+# it's better to install from package.json by running npm install
 node_modules/
 
 # Compiled source #
