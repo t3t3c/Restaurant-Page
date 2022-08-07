@@ -1,4 +1,6 @@
 "use strict";
+import logo from "./img/logo.png";
+
 
 // const DOMcontent = (() => {
 //   const content = document.querySelector("#content");
@@ -14,7 +16,7 @@ function loadHome() {
   content.appendChild(newDiv);
 
   const newImage = document.createElement("img");
-  newImage.setAttribute("src", "../src/img/logo.png");
+  newImage.setAttribute("src", logo);
   console.log(newImage);
   content.appendChild(newImage);
 
