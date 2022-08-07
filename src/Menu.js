@@ -23,14 +23,14 @@ function loadMenu() {
 
   const noodles = createDish(
     "Hibachi Noodles",
-    "Portion bigger than yo mama",
+    "Cheap and Tasty!",
     "https://bakeitwithlove.com/wp-content/uploads/2020/01/HIbachi-Noodles-lg-sq.jpg"
   );
   content.appendChild(noodles);
 
   const rice = createDish(
-    "Giga rice",
-    "Fresh like mint",
+    "Panda rice",
+    "Big portion for Pandas out there!",
     "https://www.advantour.com/img/china/food/scallops.jpg"
   );
   content.appendChild(rice);
