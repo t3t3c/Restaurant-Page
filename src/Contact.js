@@ -7,7 +7,7 @@ function loadContact() {
   const newImage = document.createElement("img");
   newImage.setAttribute(
     "src",
-    "https://img-9gag-fun.9cache.com/photo/ang1dxL_700bwp.webp"
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnationaltoday.com%2Fnational-personal-chef-day%2F&psig=AOvVaw0D32wMq-T9j-sB-0qUcZXm&ust=1666442475417000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjV8o-s8foCFQAAAAAdAAAAABAE"
   );
   console.log(newImage);
   content.appendChild(newImage);
